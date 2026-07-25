@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create a custom instance of Axios
 const axiosInstance = axios.create({
-    baseURL: 'http://localhost:8080/api', // Your Spring Boot backend URL
+    baseURL: 'https://workspace-hub-backend-zi39.onrender.com', // Your Spring Boot backend URL
 });
 
 // Add a request interceptor
