@@ -143,7 +143,7 @@ export default function Dashboard() {
         setAiLoading(true);
         setErrorMsg('');
         try {
-            const apiKey = "YOUR_GEMINI_API_KEY"; // Make sure to use secure env vars in prod
+            const apiKey = "enter the url lnk"; // Make sure to use secure env vars in prod
             const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=${apiKey}`;
             const payload = {
                 contents: [{

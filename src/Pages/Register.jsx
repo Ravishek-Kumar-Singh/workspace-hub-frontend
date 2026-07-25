@@ -149,7 +149,7 @@ export default function Register() {
                 {/* Hero Text */}
                 <div style={{ zIndex: 10, marginTop: '-60px' }}>
                     <div style={{ display: 'inline-block', padding: '6px 14px', backgroundColor: 'rgba(255,255,255,0.15)', borderRadius: '20px', fontSize: '12px', fontWeight: '600', marginBottom: '24px', backdropFilter: 'blur(10px)' }}>
-                        Join the workspace revolution 🚀
+                        Join the workspace revolution 
                     </div>
                     <h1 style={{ fontSize: '48px', fontWeight: '800', margin: '0 0 16px 0', lineHeight: '1.1' }}>
                         Start tracking.<br/>
@@ -193,8 +193,8 @@ export default function Register() {
                     <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
                         <div style={{ width: '36px', height: '36px', borderRadius: '50%', background: '#e2e8f0', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', color: '#475569' }}>S</div>
                         <div>
-                            <div style={{ fontSize: '13px', fontWeight: '700' }}>Sarah Jenkins</div>
-                            <div style={{ fontSize: '11px', opacity: 0.8 }}>Engineering Lead</div>
+                            <div style={{ fontSize: '13px', fontWeight: '700' }}>Ravishek singh</div>
+                            <div style={{ fontSize: '11px', opacity: 0.8 }}>Developer</div>
                         </div>
                     </div>
                 </div>
